@@ -11,4 +11,4 @@ Functional way of programming with F#
 
 ![alt text](screenshots/dockerui.png "docker ui")
 
-- this is run with Avalonia.UI
+
