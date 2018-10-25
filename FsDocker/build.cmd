@@ -1,0 +1,1 @@
+dotnet publish --runtime win-x64
